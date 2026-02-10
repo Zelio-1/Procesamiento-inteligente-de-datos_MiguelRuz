@@ -1,0 +1,4 @@
+Para ek dataset a utilizar, se empleara el de Mexico (2023): https://www.enterprisesurveys.org/en/data/exploreeconomies/2023/mexico?view=table&subGroup=5&countries=All+Economies%2F%2FAll+Economies%2F%2F2023%2F%2F127%2F%2Fnull&topic=7&regions=Latin+America+%26+Caribbean&subtopic=38&IndicatorIds=24%2C25%2C26
+
+En este caso se empleara la seccion de finanzas, especificamente la de Inversion financiera por sector.
+
